@@ -6,7 +6,12 @@ Disponible en Español e Inglés, para agregar más idiomas modificar el archivo
 
 A simple Java application designed to develop skills in solving basic math operations fast.
 
-Avaiable in Spanish and English, to add more languages edit the file src/matest/Lenguaje.java
+Available in Spanish and English, to add more languages edit the file src/matest/Lenguaje.java
+
+![](https://github.com/Gspr-bit/Matest/blob/main/screenshots/01-configurar-test-suma.png)
+![](https://github.com/Gspr-bit/Matest/blob/main/screenshots/02-pantalla-principal.png)
+![](https://github.com/Gspr-bit/Matest/blob/main/screenshots/03-test-resta.png)
+![](https://github.com/Gspr-bit/Matest/blob/main/screenshots/04-resumen.png)
 
 ## Español
 
