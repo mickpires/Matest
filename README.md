@@ -25,7 +25,7 @@ El código fuente tiene el formato de un proyecto de Netbeans, entonces puede se
 
 ### Como usar
 
-Descargar el archivo dist/matest.jar y ejecutarlo. Es necesario tener instalado Java. Esta aplicación fue probada en openjdk 11.
+Descargar el archivo dist/matest.jar y ejecutarlo. Es necesario tener instalado Java. Esta aplicación fue probada en openjdk 16.
 
 La aplicación está diseñada para tomar el tema de GTK+ en sistemas Linux, en caso de correrla en otro sistema operativo tomará el tema "nimbus".
 
@@ -41,7 +41,7 @@ The source code has the format of a Netbeans project, so it can be easily modifi
 
 ### How to use
 
-Download the file dist/matest.jar and execute it. It is needed to have installed Java previously. This application was proved in openjdk 11.
+Download the file dist/matest.jar and execute it. It is needed to have installed Java previously. This application was proved in openjdk 16.
 
 The app is designed to take the GTK+ theme in Linux systems, in case of running it in other OS it will take the "nimbus" theme.
 
